@@ -56,6 +56,15 @@ Q1214098|P1476|pl:"Krzyżacy"
 ##### Esto hace que el libro [The Knights of the Cross](https://www.wikidata.org/wiki/Q1214098) tenga como titulo **Krzyżacy** del Polaco.
 
 ## Paso 5
-Una vez tienes todos tus declaraciónes, debes ir al link de [QuickStatements](https://quickstatements.toolforge.org/#/) , debes loguearte para poder usar la herramienta y debes pegar tus declaraciones (o subir un csv, mas infromacion en la parta de ejemplos) y enviar tus declaraciones.
+Una vez tienes todos tus declaraciónes, debes ir al link de [QuickStatements](https://quickstatements.toolforge.org/#/) , debes loguearte para poder usar la herramienta y debes pegar tus declaraciones (o subir un csv, mas infromacion en la parte de ejemplos) y enviar tus declaraciones.
 
+![Imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/QuickStatement_V2_intro_screen.png/640px-QuickStatement_V2_intro_screen.png)
 
+clickeando en **new batch** se abrirar una pantalla como esta 
+
+![Imagen de ejemplo](https://addshore.com/wp-content/uploads/2020/07/image-6-1024x462.png)
+
+y ahi puedes pegar todas tus nuevas declaraciones, finalmente para terminar , le das click a **Import v1 commants** lo cual subira tus declaraciones.
+
+### Si necesitas más informacion, consulta la documentación oficial.
+<https://www.wikidata.org/wiki/Help:QuickStatements>
